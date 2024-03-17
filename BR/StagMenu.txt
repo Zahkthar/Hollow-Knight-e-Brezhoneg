@@ -1,0 +1,16 @@
+<entries>
+<entry name="CITY_OF_TEARS_1">Entrepôts de la Cité</entry>
+<entry name="DIRTMOUTH">Dirtmouth</entry>
+<entry name="DEEPNEST">Village Lointain</entry>
+<entry name="KINGS_STATION">Station du Roi</entry>
+<entry name="RESTING_GROUNDS">Repos Éternel</entry>
+<entry name="HIDDEN_STATION">Station Cachée</entry>
+<entry name="STAG_NEST">Tanière Aux Coléoptères</entry>
+<entry name="ROYAL_GARDENS">Jardins de la Reine</entry>
+<entry name="GREENPATH">Vertchemin</entry>
+<entry name="STATIONS">Gare</entry>
+<entry name="BONE_FOREST"></entry>
+<entry name="CROSSROADS">Routes oubliées</entry>
+<entry name="FUNGAL_WASTES">Station de la Reine</entry>
+<entry name="PALACE_GROUNDS"></entry>
+</entries>

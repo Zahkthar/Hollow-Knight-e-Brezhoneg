@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">M’as-tu apporté un autre aiguillon à améliorer ? Pose-le par terre et reviens plus tard, si tu respires encore.</entry>
+<entry name="NAILSMITH_DECLINE">Tu n’es pas intéressé ? Comme tu veux.</entry>
+<entry name="ART_DREAM">... Une ère entière à avoir travaillé seul... C’est bien plus agréable ici...</entry>
+<entry name="MODELLING">Nous sculptons une série complète des chevaliers du royaume. À l’époque, je les avais à peine remarqués, mais Sheo se souvient parfaitement de chacun d’entre eux.&lt;page&gt;C’est tellement agréable. Rien de tel que la pratique de l’Aiguiserie. J’aime tellement tous les détails complexes d’un tel travail.</entry>
+<entry name="NAILSMITH_OFFER">Je peux reforger ton aiguillon, si tu veux. Cela rendra la lame bien plus léthale.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Nous y voici. J’ai entièrement reforgé ton arme.&lt;page&gt;J’ai modifié ton aiguillon pour lui donner une forme en spirale. C’était une tâche très délicate. Tu verras, il est maintenant bien plus puissant qu’il ne l’était autrefois.&lt;page&gt;Sauve-toi maintenant ! Taille ton propre chemin dans ce monde.</entry>
+<entry name="NAILSMITH_GREET">Hmm ? Oh, tu es revenu.</entry>
+<entry name="NAILSMITH_COMPLETE_1">Voilà. J’ai fini de reforger ton arme.&lt;page&gt;J’ai affûté la pointe de ton aiguillon. Tu verras, il est maintenant bien plus puissant qu’il ne l’était autrefois.&lt;page&gt;Va dehors et teste sa puissance contre tes adversaires.</entry>
+<entry name="PAINTED_REPEAT">À travers les ténèbres d’Hallownest, qui aurait cru que je rencontrerais une âme si inspirante.</entry>
+<entry name="NAILSMITH_COMPLETE_4">C’est terminer. Il n’est plus nécessaire de le reforger.&lt;page&gt;Ton aiguillon est maintenant bien plus puissant qu’il ne l’était autrefois. Aussi puissant qu’il ne le sera jamais.&lt;page&gt;C’est uniquement dans ton arme que j’ai pu trouver un tel potentiel. Je peux enfin admirer la grandeur d’un Aiguillon Pur.&lt;page&gt;Penser que je vivrai un tel moment si tôt dans ma vie... Je... Je dois aller prendre un peu d’air...</entry>
+<entry name="NAILSMITH_COMPLETE_2">Voilà. J’ai fini de reforger ton arme.&lt;page&gt;J’ai ajouté une cannelure à ton aiguillon. Cela devrait lui donner plus de tranchant. Tu verras, il est maintenant bien plus puissant qu’il ne l’était autrefois.&lt;page&gt;Va dehors et teste sa lame contre tes adversaires.</entry>
+<entry name="NAILSMITH_REGREET">Hmm ? Tu es encore là. As-tu besoin d’autre chose ?</entry>
+<entry name="NAILSMITH_ACCEPT">Comme tu le souhaites. Je me mets au travail tout de suite.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">N’hésite pas. Je t’en supplie. Transperce-moi. Je veux pouvoir goûter à la pointe exquise de cette lame.</entry>
+<entry name="ART_MEET">Hmm ? Oh, bonjour voyageur. Qu’il est étrange que nos chemins se croisent à nouveau dans un monde aussi vaste que celui-ci !&lt;page&gt;Je dois te remercier de ne pas m’avoir tué quand je te l’ai demandé. J’étais très irrité au début, mais j’ai eu un peu de temps pour réfléchir là-haut. Cela m’a permis de réaliser la sagesse de ta décision.&lt;page&gt;Le monde n’est pas seulement fait de métaux et d’armes. Je suis parti explorer le monde et je me suis retrouvé ici en très peu de temps.&lt;page&gt;Sheo est maître dans nombre d’arts et il m’a fait la promesse de m’apprendre ce qu’il sait. Je pense que je serais très heureux ici.</entry>
+<entry name="NAILSMITH_SIGN">Inutilisé</entry>
+<entry name="MODELLING_REPEAT">C’est vraiment fabuleux. Je n’aurais jamais cru mes griffes capables de confectionner quelque chose avec une telle habileté.</entry>
+<entry name="NAILSMITH_NEED_ORE1">Si tu me donnes un morceau de minerai pâle, je peux le forger dans ton aiguillon pour le rendre un peu plus puissant.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Si tu me donnes trois morceaux de minerai pâle, je peux les forger dans ton aiguillon pour le rendre plus puissant.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Si tu me donnes deux morceaux de minerai pâle, je peux les forger dans ton aiguillon pour le rendre plus puissant.</entry>
+<entry name="NAILSMITH_KILL">Avec un aiguillon pur forgé, l’oeuvre de toute une vie touche à sa fin. Le seul désir qu’il me reste, serait de voir et de ressentir l’aiguillon toucher sa cible !&lt;page&gt;Je t’en supplie, transperce-moi avec ton aiguillon. Pendant les derniers moments de ma vie, je veux pouvoir goûter à la pointe exquise de la lame.&lt;page&gt;Après tout ce temps, tout ce labeur... ne l’ai-je pas mérité ?</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">Ah, tu n’as pas assez de Geo ? Reviens me voir quand tu auras ce qu&#39;il faut.</entry>
+<entry name="NAILSMITH_MEET_3">Cherches-tu un fabricant d’aiguillons ? Eh bien, tu en as trouvé un. Je ne suis pas très bavard, mais si c’est un aiguillon qui a besoin d’être réparé, alors tu as trouvé le bon insecte.&lt;page&gt;Ton aiguillon est en piteux état. Celui-ci n’est évidemment pas un des miens. Cependant, tout peut être perfectionné avec assez d’efforts et d’habileté, même cette relique brisée.</entry>
+<entry name="NAILSMITH_OFFER_ORE">Je vois que tu possèdes du minerai pâle. C’est un métal rare et fin. Donne-moi le minerai et un peu de Geo pour mon travail et je reforgerai ton aiguillon pour accroître sa puissance.</entry>
+<entry name="PAINTED">Je crains de ne pas pouvoir parler plus longuement avec toi. Si je bouge de trop, le chef-d’oeuvre de Sheo sera ruiné et je détesterais de le contrarier.&lt;page&gt;Bien qu’il puisse avoir une carrure imposante, en vérité il est très sensible à l’intérieur.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">J’ai accompli l’oeuvre de ma vie... Que me reste-t-il de plus ?...</entry>
+<entry name="NAILSMITH_MEET_2">Hmm ?&lt;page&gt;Oh. Je t’ai pris pour quelqu’un d’autre.</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">... Pour forger l’aiguillon parfait...</entry>
+</entries>
