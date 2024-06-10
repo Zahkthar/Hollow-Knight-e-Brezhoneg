@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">Avez-vous changé d’avis ? Eh bien, revenez quand vous voulez.</entry>
+<entry name="BANKER_FAREWELL">Alors au revoir. Soyez prudent.</entry>
+<entry name="BANKER_DREAM_SPA">... Oohh non... Laissez-moi en paix ! Horrible petite chose...</entry>
+<entry name="BANKER_DEPOSIT">Vous avez fait un excellent travail, mon cher ! Je garderai vos Geos en sécurité.</entry>
+<entry name="BANKER_BALANCE_ZERO">Il-Il ne me reste plus rien... Je ahhh, je suppose que, ahhh, vous partez ?&lt;page&gt;O-o-oui, je pense que cela serait p-préférable...</entry>
+<entry name="BANKER_GREET">Bonjour mon cher ! Êtes-vous prêt à faire une transaction bancaire ?</entry>
+<entry name="BANKER_REMEET">Avez-vous reconsidéré l’ouverture d’un compte ? Perdre des Geos est une chose terrible.&lt;page&gt;Vous pourriez parcourir ce vaste monde dangereux avec l’esprit tranquille, en sachant que vos Geos sont en sécurité avec moi.</entry>
+<entry name="BANKER_ACCT_OPEN">Vous êtes un petit futé. La prochaine fois qu’une de ces affreuses bêtes aura le dessus sur vous, vous serez content de savoir que vos Geos sont en sécurité dans ma coquill-err... mon coffre-fort.&lt;page&gt;Faisons donc maintenant une transaction bancaire.</entry>
+<entry name="BANKER_SPA_GREET">Quoi ? Oh... vous... vous êtes revenu. Quand vous êtes parti la dernière fois, j’étais persuadée que ce serait la dernière fois que je... ahh... vous verrai.&lt;page&gt;C’est juste que... ahh... Votre problème de Geo. Vous devriez savoir que cela m’a causé beaucoup de stress aussi. Un tel stress en fait, que j’ai quitté mon travail pour de bon.</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Vous ne voulez pas ouvrir un compte ?!... Vous êtes bien trop hésitant. Vous devriez prendre des décisions audacieuses et vous y tenir. C’est ça l’astuce pour voir vos Geos fructifier.</entry>
+<entry name="BANKER_MEET">Bonjour mon cher. J’étais sur le point de fermer et de partir, mais plus maintenant. Je peux vous aider à ouvrir un compte en banque, si cela vous intéresse.&lt;page&gt;Perdre des Geos est une chose terrible et cela à beaucoup plus de chance de se produire, si vous les portez sur vous.&lt;page&gt;Mon coffre-fort est beaucoup plus sûr. Je suis banquière depuis de nombreuses années et je n’ai jamais perdu un seul Geo !&lt;page&gt;Considériez-vous d’ouvrir un compte ?</entry>
+<entry name="BANKER_SPA_MEET">Oh... A-ah, rebonjour, mon c-cher. Quelle surprise de tomber sur vous ici !&lt;page&gt;Êtes-vous venu récupérer vos Geos ? C’est-à-dire que, ahhhhhh. C’est tout à fait déplorable, mais... il ne reste plus rien. Tout a été dépensé.&lt;page&gt;Le coût de fonctionnement d’une banque peut être très élevé ! J’ai dû facturer les frais de service sur votre compte bancaire.&lt;page&gt;Parfaitement légitime, bien sûr. Cela fait juste partie du système bancaire... ah ha ha... ha.&lt;page&gt;Mais... ahh... c’est gentil de votre part de venir me rendre visite, mais vous pouvez partir maintenant. Si vous me donnez un peu d’intimité, j’en aurai bientôt fini. Ensuite, vous pouvez avoir le spa pour vous tout seul.</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">... Je pense que je pourrais p-p-prendre un peu de repos ici. Oui cela serait préférable.</entry>
+<entry name="BANKER_ACCT_DECLINE">Je comprends. Cela n’est pas facile de se séparer de Geo durement gagné. Je reste là si vous changez d’avis.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Malheureusement, vous n’avez pas assez de Geo pour ouvrir un compte. Revenez me voir quand vous en aurez davantage.</entry>
+<entry name="BANKER_WITHDRAW">Je vous remercie pour ce retrait. N’allez pas tout dépenser en une fois !</entry>
+<entry name="BANKER_SPA_REPEAT">... Sans r-rancune, ok ?...</entry>
+<entry name="BANKER_DREAM">... Quand pourrai-je retourner à ce spa si agréable ?... Ses eaux soulagent tellement bien toutes les tensions que je ressens dans ma carapace...</entry>
+</entries>

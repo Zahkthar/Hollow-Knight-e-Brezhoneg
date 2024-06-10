@@ -1,0 +1,15 @@
+<entries>
+<entry name="GAME_TITLE">Hollow Knight</entry>
+<entry name="PRE_MENU_QUOTE">Se perdre et retrouver son chemin est un plaisir incomparable.</entry>
+<entry name="GAME_DISPLAY_TITLE"></entry>
+<entry name="SAVE_WARNING">Ce jeu sauvegarde les données de votre partie automatiquement à certains endroits.&lt;br&gt; Veuillez ne pas éteindre le jeu pendant que ce symbole s’affiche à l’écran.</entry>
+<entry name="CONTROL_PROMPT">L’utilisation d’une manette de jeu est fortement recommandée</entry>
+<entry name="VERSION_NUMBER">- - -</entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">- Extrait de « l’Élégie d’Hallownest » par l’Érudite Monomon</entry>
+<entry name="PROLOGUE_EXCERPT_02">Nos instincts primaires, vous avez su dompter,</entry>
+<entry name="PROLOGUE_EXCERPT_03">Nos âmes sauvages, ont été rachetées,</entry>
+<entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
+<entry name="PROLOGUE_EXCERPT_01">Nous prononçons votre nom, avec regret et fierté,</entry>
+<entry name="SNEAK_PEEK">Cet aperçu est tiré d’une version inachevée d’Hollow Knight et ne représente pas la performance finale du jeu.</entry>
+<entry name="PROLOGUE_EXCERPT_04">Un monde offert, dont nous pouvions seulement rêver.</entry>
+</entries>

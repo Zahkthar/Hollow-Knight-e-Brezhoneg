@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">J’aime cette nourriture... c’est mou, rond et ça s’éparpille délicieusement dans ma bouche. L’odeur qui en émane... cela me rend toute excitée rien que d’y penser. C’est véritablement la chose la plus somptueuse au monde.</entry>
+<entry name="GREET">Ah, rebonjour. Comment vous portez-vous ? Est-ce que vous venez me voir à cause de vos regrets ? Laissez-moi vous regarder attentivement un instant...</entry>
+<entry name="MEET1">Bienvenue, petit intrus. Cela fait un certain temps que je dors profondément ici... Un certain temps ?&lt;page&gt;Ah. Oui. Oui. Eh bien, maintenant vous m’avez réveillée. Ce n’est pas grave, je suppose. Je pourrais même être en mesure de vous aider.</entry>
+<entry name="RITUAL_BEGIN">Mmmm... Je vais lentement savourer ce morceau. Maintenant, comme je l’ai promis, nous allons commencer le rituel.</entry>
+<entry name="WATERWAYS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire entourée de tuyaux et de voies d’eau. Elle ne peut pas être emportée par le courant bien que... </entry>
+<entry name="SHADE_OFFER">Je peux vous retourner vos regrets, à condition que vous partagiez votre délicieuse nourriture avec moi.</entry>
+<entry name="RITUAL_REPEAT">Pour le moment, je vous fais mes adieux. Je penserai à vous en savourant mon repas.</entry>
+<entry name="SHAMAN_TEMPLE">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire sur une butte ancestrale... un lieu de culte étrange.</entry>
+<entry name="CLIFFS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire juste au-dessus de nous, entourée par des vents hurlants.</entry>
+<entry name="MEET2">Je suis Jiji et si votre chemin vous a amené jusqu’à moi, c’est que vous devez avoir besoin de mon aide.&lt;page&gt;Vous voyez, parfois nous abandonnons nos regrets dans ce monde sous forme de taches noires.&lt;page&gt;Si nous refusons de faire face à nos propres regrets, alors, l’espoir qui est en nous s’épuise.&lt;page&gt;Avez-vous des regrets, petit être ? Laissez-moi vous regarder attentivement un instant...</entry>
+<entry name="DREAM">J’ai dû dormir pendant très longtemps. Cette terre est devenue tellement plus sombre. Elle est complètement maculée de taches de regret.&lt;page&gt;Même l’air est plus trouble qu’avant. Si je me rendors, l’obscurité se glissera-t-elle ici pour m’avaler toute entière ?</entry>
+<entry name="ABYSS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Bien que très vaguement...  Il y a une tache noire entourée par l’obscurité, profondément au-dessous du monde. Elle est presque engloutie...</entry>
+<entry name="CROSSROADS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire juste au-dessous de nous, perdue au coeur des routes sinueuses du royaume.</entry>
+<entry name="SHADE_OFFER_INTRO">Je peux vous rendre service et vous rendre vos regrets, afin que vous puissiez vous en occuper. C’est bien ce que vous voulez, n’est-ce pas ?&lt;page&gt;Ah, mais c’est que je suis affamée. Peut-être seriez-vous prêt à vous séparer d&#39;un peu de votre nourriture ? Si vous aviez dormi aussi longtemps que moi, vous aussi, vous auriez très faim.</entry>
+<entry name="HIVE">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire entourée d’une lumière dorée, dans une ruche, loin d’ici.</entry>
+<entry name="DECLINE">Oh ? Eh bien ! Si vous n’avez pas le moindre désir de faire la paix avec vos regrets, je ne peux pas vous aider.</entry>
+<entry name="RITUAL_COMPLETED">Ah, vous avez fait la paix avec vos regrets d’une manière des plus innovantes et brutale, si j’ose dire. Quel bonheur pour moi d’en avoir été témoin ! Pour le moment, je vous fais mes adieux. Je penserai à vous en savourant mon repas.</entry>
+<entry name="WASTES">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire nichée au coeur de champignons étranges et de lacs bouillonnants.</entry>
+<entry name="NOSHADE">Ah, il ne semble pas subsister le moindre regret en vous. Vous avez beaucoup de chance. Vous n’avez donc pas besoin de mes services.</entry>
+<entry name="CITY">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire au coeur de la capitale du royaume. La pluie ne peut pas la faire disparaître.</entry>
+<entry name="SHADE_CHARM">Ooohhhh. Mes maîtres seraient impressionnés...&lt;page&gt;Il est si rare d’en voir un réussir à surmonter tous ses regrets, mais vous semblez avoir réussi.&lt;page&gt;Quelle sorte d’obscurité doit-on traverser pour parvenir à accomplir une telle chose ?</entry>
+<entry name="QUEENS_STATION">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire toute seule dans la station de la reine.</entry>
+<entry name="MINES">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire presque cachée par la lueur des cristaux scintillants qui l’entourent.</entry>
+<entry name="KINGS_PASS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire tout près d’ici, juste à l’entrée de ce royaume.</entry>
+<entry name="COLOSSEUM">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire entourée par des guerriers et des fous.</entry>
+<entry name="NOSHADE_REPEAT">Il ne semble pas subsister le moindre regret en vous. Vous n’avez donc pas besoin de mes services. Adieu.</entry>
+<entry name="NO_EGGS">Hmm, vous n’avez pas de nourriture sur vous. Du moins, rien qui m’intéresse. Je ne peux rien faire avec un estomac vide. Je vous prie de bien vouloir revenir, une fois que vous aurez trouvé quelque chose à manger de vraiment délicieux... quelque chose de nourrissant.</entry>
+<entry name="LOST_SHADE">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire dissimulée dans l’obscurité juste en dessous de nous.</entry>
+<entry name="DEEPNEST">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire à peine visible, dans les tunnels d’un nid profond au-dessous de ce royaume.</entry>
+<entry name="GREEN_PATH">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire au milieu d’un endroit luxuriant et verdoyant.</entry>
+<entry name="OUTSKIRTS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire très loin, toute au bord du monde. </entry>
+<entry name="RESTING_GROUNDS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire dans un lieu saint du repos éternel.</entry>
+<entry name="FOG_CANYON">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire perdue dans les brumes d’une terre étrangère.</entry>
+<entry name="ROYAL_GARDENS">Oui, je peux voir les regrets que vous avez laissés derrière vous. Il y a une tache noire qui ternit la beauté d’un jardin.</entry>
+</entries>
