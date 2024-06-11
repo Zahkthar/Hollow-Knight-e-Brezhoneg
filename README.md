@@ -1,5 +1,7 @@
 # Hollow Knight e Brezhoneg
 
+![Bannière](Banner.png)
+
 Vous rêvez de jouer à Hollow Knight en Breton ? Je ne suis donc pas tout seul ! Vous êtes sur le bon repo !
 
 L'installation est assez simple :
